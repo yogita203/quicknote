@@ -1,1 +1,1 @@
-# quicknote
+# QuickNote
